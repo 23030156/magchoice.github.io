@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Display</title>
+    <link rel="stylesheet" id="themeStyle" href="css/style.css">
+</head>
+<body>
+    <div class="banner"></div>
+    <div class="wrapper">
+        <main class="main-content">
+            <div id="filter-section" class="centered-section">
+                <h3>Categories By</h3>
+                <select id="filter" onchange="filterData()">
+                    <option value="all">All</option>
+                    <!-- Other options will be populated by JavaScript -->
+                </select>
+            </div>
+            <div id="product-container"></div>
+            <div class="centered-section">
+                <button id="prevButton" onclick="showPrevProduct()">Previous</button>
+                <button id="nextButton" onclick="showNextProduct()">Next</button>
+                <button id="viewOrder" onclick="viewOrder()">View Order</button>
+            </div>
+        </main>
+    </div>
+    <footer class="footer">
+        <p>&copy; Mag Choice. All Rights Reserved. <button onclick="switchTheme()">Switch Theme</button></p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
