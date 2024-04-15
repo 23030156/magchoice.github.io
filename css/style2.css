@@ -1,0 +1,101 @@
+/* Overall Body Styling */
+body {
+    font-family: 'Roboto', sans-serif; /* Sleek, modern font */
+    background-color: #1a1a2e; /* Darker, more contemporary background */
+    color: #eaeaea; /* Soft light text for better readability on dark background */
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+}
+
+.main-content {
+    padding: 30px;
+    margin: 30px auto;
+    max-width: 1000px; /* Slightly adjust width for a modern look */
+    background-color: #16213e; /* Deep blue for a rich, engaging feel */
+    color: #fff;
+    font-family: 'Montserrat', sans-serif; /* Contemporary, readable font */
+    font-size: 17px; /* Adjusted for optimal readability */
+    line-height: 1.7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Adjust alignment for content focus */
+    text-align: left; /* Align text for better content absorption */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); /* Refined shadow for depth */
+    border-radius: 8px; /* Rounded corners for a soft, modern look */
+    opacity: 1; /* Ensure content is fully opaque */
+}
+
+/* Banner Styling */
+.banner {
+    background: url('../img/banner.jpg') no-repeat center center/cover; /* New banner image for a fresh look */
+    height: 300px;
+    color: #ffffff;
+    font-size: 2rem; /* Updated font size for emphasis */
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.75);
+}
+
+/* Wrapper Styling */
+.wrapper {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+/* Container Styling for Products */
+#product-container {
+    grid-template-columns: repeat(auto-fit, minmax(225px, 1fr)); /* Auto-adjust number of columns */
+}
+
+/* Product Styling */
+.product {
+    border: none; /* Remove border for a cleaner look */
+    background-color: #0f3460; /* Darker contrast for the product cards */
+    color: #eaeaea; /* Ensure readability */
+    padding: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.25); /* Enhanced shadow for 3D effect */
+    border-radius: 10px; /* More pronounced rounded corners */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product:hover {
+    transform: scale(1.05); /* Subtle grow effect on hover */
+    box-shadow: 0 10px 25px rgba(0,0,0,0.35); /* Increased shadow on hover for depth */
+}
+
+/* Product Image Styling */
+.product img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Ensure consistency with card border-radius */
+    margin-bottom: 15px; /* Add some space between image and text */
+}
+
+/* Dropdown and Button Styling */
+select#filter, button {
+    background-color: #4ecca3; /* Vibrant green for interactive elements */
+    color: #0f3460; /* Dark text for contrast */
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none; /* Clean look without border */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+select#filter:hover, button:hover {
+    background-color: #3db492; /* Darken green on hover */
+    color: #ffffff; /* Light text on hover for readability */
+}
+
+/* Footer Styling */
+.footer {
+    background-color: #0f3460; /* Harmonize with product card color */
+    color: #eaeaea;
+    padding: 20px 0;
+}
+
+@media (max-width: 768px) {
+    .product {
+        width: 100%; /* Adapt grid items for smaller screens */
+    }
+}
