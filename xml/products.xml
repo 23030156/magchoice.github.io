@@ -1,0 +1,192 @@
+<products>
+    <product id="1">
+        <name>Chicken Chop</name>
+        <category>Western Cuisine</category>
+        <price>19.99</price>
+        <description>Crispy Chicken With BBQ or Black Pepper Sauce.</description>
+        <image>img/chicken_chop.jfif</image>
+    </product>
+	<product id="2">
+        <name>Cendol</name>
+        <category>Drinks</category>
+        <price>4.99</price>
+        <description>Coconut Milk with Gula Melaka And Green Slimy Thing</description>
+        <image>img/Cendol.jpg</image>
+    </product>
+	<product id="3">
+        <name>Iced Laici Yogurt</name>
+        <category>Drinks</category>
+        <price>7.99</price>
+        <description>Laichee with yogurt come together to satisfy your lust</description>
+        <image>img/Laici_Yogurt_Ice.jpg</image>
+    </product>
+	<product id="4">
+        <name>Iced Thai Tea</name>
+        <category>Drinks</category>
+        <price>4.99</price>
+        <description>Imported tea leaves from nothern Thailand come together with milk</description>
+        <image>img/Thai_Tea.jpg</image>
+    </product>
+	<product id="5">
+        <name>Coconut Juice </name>
+        <category>Drinks</category>
+        <price>4.99</price>
+        <description>Coconut fresh juice imported from another universe</description>
+        <image>img/coconut_juice.jpg</image>
+    </product>
+	<product id="6">
+        <name>Orange Juice </name>
+        <category>Drinks</category>
+        <price>4.99</price>
+        <description>Orange fresh juice imported from another universe</description>
+        <image>img/orange_juice.jpg</image>
+    </product>
+	<product id="7">
+        <name>Water Stone Add </name>
+        <category>Drinks</category>
+        <price>5.99</price>
+        <description>Ice with colorful sweet taste liquid. Also come with corn and jelly</description>
+        <image>img/ABC.jpg</image>
+    </product>
+	<product id="8">
+        <name>Watermelon Juice </name>
+        <category>Drinks</category>
+        <price>4.99</price>
+        <description>Watermelon fresh juice imported from another universe</description>
+        <image>img/watermelon_juice.jpg</image>
+    </product>
+	<product id="9">
+        <name>Ice Tea </name>
+        <category>Drinks</category>
+        <price>4.99</price>
+        <description>Tea leaves imported from another universe</description>
+        <image>img/ice_tea.jpg</image>
+    </product>
+	<product id="10">
+        <name>Iced Sirap</name>
+        <category>Drinks</category>
+        <price>2.99</price>
+        <description>Reddish juice imported from Vampire King</description>
+        <image>img/sirap.jpg</image>
+    </product>
+	<product id="11">
+        <name>Mushroom Soup And Garlic Bread </name>
+        <category>Western Cuisine</category>
+        <price>7.99</price>
+        <description>Highest grade mushroom soup and Exotic Garlic Bread come together to bless your taste bud</description>
+        <image>img/mushroom_soup_garlic_bread.jpg</image>
+    </product>
+	<product id="12">
+        <name>Dimsum </name>
+        <category>Chinese Cuisine</category>
+        <price>8.99</price>
+        <description>Authentic Great Wall taste</description>
+        <image>img/dimsum.jpg</image>
+    </product>
+	<product id="13">
+        <name>Spagethi Bolognese </name>
+        <category>Western Cuisine</category>
+        <price>9.99</price>
+        <description>Pure gladiator taste come with tomato sauce</description>
+        <image>img/spagethi_bolognese.jpg</image>
+    </product>
+	<product id="14">
+        <name>Chessy Wedges </name>
+        <category>Western Cuisine</category>
+        <price>7.99</price>
+        <description>This is what cheesy lover looking for</description>
+        <image>img/chessy_wedges.jpg</image>
+    </product>
+	<product id="15">
+        <name>Doughnut </name>
+        <category>Local Cuisine</category>
+        <price>1.99</price>
+        <description>Rounded shape cuisine with sweetest thing in the world</description>
+        <image>img/doughnut.png</image>
+    </product>
+	<product id="16">
+        <name>Burger</name>
+        <category>Western Cuisine</category>
+        <price>8.99</price>
+        <description>Juicy patties with double slice of chesse and top-down bread.</description>
+        <image>img/burger.png</image>
+    </product>
+	<product id="17">
+        <name>Sandwich</name>
+        <category>Western Cuisine</category>
+        <price>4.99</price>
+        <description>Bread come with chicken slice and little of happiness</description>
+        <image>img/sandwich.png</image>
+    </product>
+	<product id="18">
+        <name>Kuih Bom </name>
+        <category>Local Cuisine</category>
+        <price>2.59</price>
+        <description>A sphere shape cuisine come to blown your mind </description>
+        <image>img/kuih_bom.jpg</image>
+    </product>
+	<product id="19">
+        <name>Nona Manis (Sweet Girl) </name>
+        <category>Local Cuisine</category>
+        <price>2.59</price>
+        <description>Dont let your wife know about this delicious cuisine</description>
+        <image>img/nona_manis.jpg</image>
+    </product>
+	<product id="20">
+        <name>Lopes</name>
+        <category>Local Cuisine</category>
+        <price>2.99</price>
+        <description>Newly invention cuisine which will make your stomach happy</description>
+        <image>img/lopes.jpg</image>
+    </product>
+	<product id="21">
+        <name>Koci</name>
+        <category>Local Cuisine</category>
+        <price>2.99</price>
+        <description>Sticky cuisine which chewable come with sweet thing inside</description>
+        <image>img/koci.jpg</image>
+    </product>
+	<product id="22">
+        <name>Ketupat</name>
+        <category>Local Cuisine</category>
+        <price>3.99</price>
+        <description>Rice + Coconut Milk + Leaves = Happiness</description>
+        <image>img/ketupat.jpg</image>
+    </product>
+	<product id="23">
+        <name>Lemang</name>
+        <category>Local Cuisine</category>
+        <price>12.99</price>
+        <description>Rice + coconut milk + bamboo = Enjoyable</description>
+        <image>img/lemang.jpg</image>
+    </product>
+	<product id="24">
+        <name>Laksa</name>
+        <category>Local Cuisine</category>
+        <price>12.99</price>
+        <description>Grind fish soup + spicy thing + white mee + half egg = Desireable </description>
+        <image>img/laksa.jpg</image>
+    </product>
+	<product id="25">
+        <name>Nasi Dagang</name>
+        <category>Local Cuisine</category>
+        <price>13.99</price>
+        <description>"Dagang Pak Malau Dagang Berlipat, Nasi Dagang Kami Memang Hebat </description>
+        <image>img/nasi_dagang.jpg</image>
+    </product>
+	<product id="26">
+        <name>Nasi Kerabu</name>
+        <category>Local Cuisine</category>
+        <price>12.99</price>
+        <description>Dont misunderstood this with anything last with wednesday</description>
+        <image>img/nasi_kerabu.jpg</image>
+    </product>
+	<product id="27">
+        <name>Nasi Lemak</name>
+        <category>Local Cuisine</category>
+        <price>12.99</price>
+        <description>Coconut milk rice with spicy anchovies</description>
+        <image>img/nasi_lemak.jpg</image>
+    </product>
+    <!-- Additional products -->
+</products>
